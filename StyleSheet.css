@@ -10,6 +10,17 @@ body {
   background-attachment: fixed;
 }
 
+.bar {
+  background-image: url("bar.jpg");
+  background-color: #cccccc;
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  /* background-attachment: fixed; */
+}
+.parag {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: oblique;
+}
 .flexing {
   --gap: 12px;
   display: inline-flex;
