@@ -36,7 +36,12 @@ body {
 @media (max-width: 576px) {  
   .header {
     width: 100%;
-    height: 3em;
+    height: 5em;
+  }
+  .card-img{
+    width: 100%;
+    height: 5em;
+
   }
   
   .card-title{
