@@ -61,6 +61,9 @@ body {
   height: max-content;
    
  }
+ .btn{
+   font-size: 20px;
+ }
 
 }
 
