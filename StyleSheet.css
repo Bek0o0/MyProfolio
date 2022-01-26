@@ -51,18 +51,23 @@ body {
   .col-md{
     height:1em;
     width: max-content;
-  }
- .parag{
    font-size: 20px;
  }
- body{
-   font-size: 20px;
- }
+
  .h{
    font-size: 30px;
  }
 
+ .card{
+   font-size: x-small;
+   width: max-content;
+   height: 0%;
+   
+ }
+
 }
+
+
 @media (max-width: 768px) {  
   .parag{
     font-size: 10px;
