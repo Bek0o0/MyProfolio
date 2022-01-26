@@ -35,6 +35,11 @@ body {
 
 @media (min-width: 576px) {  
  .parag{
-   font-size: 20px;
+   font-size: 5px;
  }
+}
+@media (min-width: 768px) {  
+  .parag{
+    font-size: 5px;
+  }
 }
