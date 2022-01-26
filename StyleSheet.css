@@ -33,13 +33,13 @@ body {
   margin: var(--gap) 0 0 var(--gap);
 }
 
-@media (min-width: 576px) {  
+@media (max-width: 576px) {  
  .parag{
-   font-size: 1px;
+   font-size: 20px;
  }
 }
-@media (min-width: 768px) {  
+@media (max-width: 768px) {  
   .parag{
-    font-size: 1px;
+    font-size: 10px;
   }
 }
