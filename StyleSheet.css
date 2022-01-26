@@ -60,8 +60,8 @@ body {
 
  .about{
   font-size: x-small;
-  width: 2em;
-  height: 5em;
+  width: 6em;
+  height: max-content;
    
  }
 
