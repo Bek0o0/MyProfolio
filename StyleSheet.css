@@ -1,6 +1,7 @@
 .header {
   width: 99%;
   height: 10em;
+  margin-bottom: 3rem;
 }
 body {
   background-image: url("background.jpg");
