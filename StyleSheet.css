@@ -58,10 +58,10 @@ body {
    font-size: 30px;
  }
 
- .card{
+ .card-body{
    font-size: x-small;
-   width: max-content;
-   height: 0%;
+   width: 2em;
+   height: 5em;
    
  }
 
