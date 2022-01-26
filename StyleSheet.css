@@ -66,6 +66,10 @@ body {
    width: 40%;
  }
 
+ .container-fluid{
+   margin-top: 3em;
+ }
+
 }
 
 
