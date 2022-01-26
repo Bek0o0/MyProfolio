@@ -65,7 +65,10 @@ body {
    width: 40%;
  }
 
- 
+ .nonITCards{
+   width: 4rem;
+   height: 4rem;
+ }
 
 }
 
