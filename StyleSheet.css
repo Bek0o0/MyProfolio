@@ -32,3 +32,9 @@ body {
 .flexing > * {
   margin: var(--gap) 0 0 var(--gap);
 }
+
+@media (min-width: 576px) {  
+ .parag{
+   font-size: small;
+ }
+}
