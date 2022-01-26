@@ -47,9 +47,13 @@ body {
   }
   #carouselExampleIndicators{
     width: 20%;
-    height: 30%;
+    height: 3em;
   }
 
+  .container-fluid{
+    height:max-content;
+    width: 2em;
+  }
  .parag{
    font-size: 20px;
  }
