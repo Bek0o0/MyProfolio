@@ -1,0 +1,8 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+<<<<<<< HEAD
+Arabic.mp4 filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> f747b73409f0b6b2cda708737dd3e93a19978c38
+=======
+>>>>>>> f747b73409f0b6b2cda708737dd3e93a19978c38
